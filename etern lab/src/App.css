@@ -1,0 +1,9 @@
+.App {
+  display: grid;
+  height: 100vh;
+  gap: 20px;
+  padding: 50px;
+  background-image: url("https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bm90ZXxlbnwwfHwwfHw%3D&w=1000&q=80");
+}
+
+
